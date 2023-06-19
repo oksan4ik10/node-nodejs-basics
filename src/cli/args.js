@@ -1,5 +1,3 @@
-const parseArgs = () => {
-  console.log("test!");
-};
+const parseArgs = () => {};
 
 parseArgs();
